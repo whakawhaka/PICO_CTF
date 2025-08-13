@@ -1,0 +1,3 @@
+This was a web exploitation challenge. the name "STTI" hints at SSTI (Server-Side Template Injection) Exploitation.
+
+The website generated had an input box that would announce anything 
